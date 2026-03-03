@@ -8,7 +8,6 @@ A practical tutorial created in collaboration with the Scientific Club at my uni
 
 During the workshop, we used Chrome DevTools to measure response times, compare performance and discuss the strengths and trade-offs of each approach. 
 
-This project reflects both my learning journey and my experience teaching modern React data-fetching patterns in a collaborative educational setting.
 
 ## Tech Stack
 
